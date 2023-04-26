@@ -1,0 +1,4 @@
+In this example, the WordCloud object is created with a width and height of 800 pixels, a white background color, and a maximum of 200 words. The generate() method is then used to generate the word cloud from the text variable. Finally, the word cloud is displayed using Matplotlib's imshow() function, with the axis() function turned off to remove the axis labels, and the show() function to display the plot.
+kashayp kashayp kashayp kashayp kashayp kashayp kashayp
+
+free free 100% get 50 off on sandwitches.
